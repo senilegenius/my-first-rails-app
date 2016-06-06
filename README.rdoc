@@ -3,6 +3,10 @@
 Going through the tutorial:
 http://guides.rubyonrails.org/getting_started.html
 
--- 5/31/16: Section 5.2
+-- 05/31/16: Section 5.2
 http://guides.rubyonrails.org/getting_started.html#the-first-form
+
+-- 06/05/16: Section 5.6
+http://guides.rubyonrails.org/getting_started.html#saving-data-in-the-controller
+Just finished sec 5.5, Running a migration (so it created the table "articles") 
 
